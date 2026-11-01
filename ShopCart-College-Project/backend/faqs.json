@@ -1,0 +1,38 @@
+[
+  {
+    "id": "place-order",
+    "question": "How do I place an order?",
+    "aliases": ["how can I order", "how do I checkout", "how to buy something", "steps to place an order", "how can I place an order"],
+    "answer": "Sign in first, add in-stock products to your cart, then open the cart and choose Proceed to Checkout. Enter your delivery name, email, phone, address, city, and PIN code; choose a payment method; then select Place Order. A successful order is saved and appears in My Orders."
+  },
+  {
+    "id": "add-to-cart",
+    "question": "How do I add a product to my cart?",
+    "aliases": ["how to add something to cart", "how do I put an item in my cart", "add product to bag", "how can I add to cart"],
+    "answer": "Sign in, find an in-stock item in the catalogue, and select Add to Cart on its product card or product details. The cart is saved to your account. Guests are prompted to sign in before adding items."
+  },
+  {
+    "id": "update-cart",
+    "question": "How do I update or remove a cart item?",
+    "aliases": ["change cart quantity", "change item quantity", "remove item from cart", "delete cart item", "how do I edit my cart", "update my cart"],
+    "answer": "Open your cart. Use the + and − buttons beside an item to change its quantity; the − button at quantity 1 removes it. You can also use the trash button to remove the item. Quantity is limited by current stock."
+  },
+  {
+    "id": "account-access",
+    "question": "How do I register or log in?",
+    "aliases": ["how do I sign in", "how to create an account", "how do I make an account", "how can I register", "forgot how to login"],
+    "answer": "Use Sign In or Register in the ShopCart navigation. Registration asks for your name, email, and password (at least 8 characters); after registering, switch to Sign In and log in with that email and password."
+  },
+  {
+    "id": "view-orders",
+    "question": "How do I view my orders?",
+    "aliases": ["where are my orders", "track my order", "how can I see my order history", "view order status", "my order status"],
+    "answer": "Sign in with the account used to place the order, then choose My Orders in the navigation. The order list shows your order details and current status. The assistant cannot access personal order information."
+  },
+  {
+    "id": "unavailable-product",
+    "question": "What should I do if a product is unavailable?",
+    "aliases": ["what if an item is out of stock", "product is out of stock", "why can't I add this product", "when will an unavailable item return"],
+    "answer": "ShopCart disables adding a product when its stock is zero, and cart quantities cannot exceed available stock. Try another in-stock item or check the product page again later; this demo does not currently provide restock notifications."
+  }
+]

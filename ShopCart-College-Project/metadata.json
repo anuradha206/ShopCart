@@ -1,0 +1,6 @@
+{
+  "name": "ShopCart — Online Store",
+  "description": "A student e-commerce demo built with React, Vite, TypeScript, and a local SQLite API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["product browsing", "shopping cart", "wishlist", "sample checkout", "admin demo"]
+}
